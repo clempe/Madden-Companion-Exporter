@@ -1,0 +1,7 @@
+ var config = {
+    apiKey: "AIzaSyCm8-bbvdxFJ0ts_vWnJW1c_tS7T-rtAGY",
+    authDomain: "madden-compaion-exporter.firebaseapp.com",
+    databaseURL: "https://madden-compaion-exporter.firebaseio.com",
+    storageBucket: "madden-compaion-exporter.appspot.com",
+    messagingSenderId: "641232736937"
+  };
